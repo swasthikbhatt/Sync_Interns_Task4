@@ -16,3 +16,6 @@ Feature 5 : Future of e-learning
 Feature 6 : Communication through LMS 
 
 Feature 7 : Admin Dashboards
+
+https://github.com/swasthikbhatt/Sync_Interns_Task4/assets/131445089/34ba3a87-2125-4cd7-ac88-8fdf46a831b0
+
